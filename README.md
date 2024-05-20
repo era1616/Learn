@@ -1,3 +1,3 @@
 # Learn
 Learning
-First changes Aut :-  Ashish Muley
+First changes Author :-  Ashish Muley
